@@ -1,6 +1,6 @@
 # API credentials
-API_ID = 22419004
-API_HASH = "34982b52c4a83c2af3ce8f4fe12fe4e1"
+API_ID = 24444928
+API_HASH = "0a278a515cd13ec8802b7dabed73dede"
 BOT_TOKEN = "7244860871:AAHaVrXypaQk5GkUhDbgeTxDhSx7vP7XMIU"
 
 # Redis configuration
