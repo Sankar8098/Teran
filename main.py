@@ -8,6 +8,7 @@ import telethon
 import telethon.tl.types
 from telethon import TelegramClient, events
 from telethon import Button
+from .size_utils import get_formatted_size
 from telethon.tl.functions.messages import ForwardMessagesRequest
 from telethon.types import Message, UpdateNewMessage
 
@@ -778,3 +779,8 @@ async def handle_message(m: Message):
 
 bot.start(bot_token=BOT_TOKEN)
 bot.run_until_disconnected()
+
+
+if __name__ == "__main__":
+    data = get_data()
+    print(data)
