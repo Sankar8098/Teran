@@ -1,6 +1,7 @@
 moviepy
 pyrogram
 python-dotenv
+telethon
 aria2p
 redis
 dnspython
