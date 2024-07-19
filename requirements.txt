@@ -2,6 +2,7 @@ moviepy
 pyrogram
 python-dotenv
 aria2p
+redis
 dnspython
 pymongo
 requests
