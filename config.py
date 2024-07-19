@@ -13,7 +13,7 @@ REDIS_CONFIG = {
 }
 
 # Chat ID where videos will be stored
-PRIVATE_CHAT_ID = -1002204853756
+PRIVATE_CHAT_ID = -1002214286582
 
 # Authentication cookie
 COOKIE = {
@@ -22,4 +22,4 @@ COOKIE = {
 # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=; lang=en; TSID=; __bid_n=; _ga=; __stripe_mid=; ndus=; browserid==; ndut_fmt=; _ga_06ZNKL8C2E=" (don't use this)
 
 # List of bot admins
-ADMINS = [6742022802]
+ADMINS = [7079923017]
